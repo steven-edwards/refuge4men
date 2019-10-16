@@ -13,13 +13,13 @@ sections:
 - type: section_features
   template: section_features
   section_id: features
-  title: Our aim is to
-  subtitle: Empower men to escape domestic abuse Promote awareness on the subject
-    of male domestic abuse within the community Become the 'one stop shop' for guidance,
+  title: Our aim is to...
+  subtitle: Empower men to escape domestic abuse. Promote awareness on the subject
+    of male domestic abuse within the community. Become the 'one stop shop' for guidance,
     support & signposting within the UK
   bg: gray
   featureslist:
-  - title: 24 hour a day, 7 days a week, 365 days a year dedicated helpline
+  - title: 24 hours a day, 7 days a week, 365 days a year dedicated helpline
     content: More information to follow shortly or click below to learn more.
     image: "/images/section2_a.jpg"
     actions:
@@ -58,7 +58,7 @@ sections:
   template: section_cta
   section_id: call-to-action
   title: Stronger together – because we care
-  subtitle: Optional description...
+  subtitle: Optional sub-title can be put here...
   actions: []
 - type: section_posts
   template: section_posts
