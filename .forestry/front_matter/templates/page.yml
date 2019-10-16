@@ -24,8 +24,8 @@ fields:
   config:
     required: true
 pages:
-- about.md
 - legal-notice.md
+- about.md
 - our-events.md
 - our-friends.md
 - style-guide.md

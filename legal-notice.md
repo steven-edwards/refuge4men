@@ -2,7 +2,7 @@
 layout: page
 title: Legal Notice
 subtitle: ''
-img_path: "/images/legal notice.png"
+img_path: "/images/legalLogo.gif"
 menu:
   main:
     weight: 6
