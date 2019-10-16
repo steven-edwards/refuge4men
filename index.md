@@ -9,7 +9,7 @@ sections:
   image: "/images/homepage1.png"
   actions:
   - label: Learn More
-    url: "/features"
+    url: "/about"
 - template: section_content
   bg: white
   type: section_content
