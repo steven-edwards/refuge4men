@@ -29,9 +29,5 @@ sections:
   - label: Get Started
     url: "#"
 layout: landing
-menu:
-  main:
-    title: Our Friends
-    weight: 3
 
 ---
