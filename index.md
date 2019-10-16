@@ -42,7 +42,7 @@ sections:
     image: "/images/section2_b.jpg"
     actions:
     - label: Learn More
-      url: "/features"
+      url: "/about"
   - title: Guidance, support & signposting
     content: More information to follow shortly or click below to learn more.
     image: "/images/section2_c.jpg"
