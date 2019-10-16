@@ -3,6 +3,9 @@ layout: page
 title: Legal Notice
 subtitle: ''
 img_path: "/images/legal notice.png"
+menu:
+  main:
+    weight: 6
 
 ---
 ### Name of company
