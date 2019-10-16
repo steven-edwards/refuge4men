@@ -4,8 +4,8 @@ baseurl: "/"
 permalink: "/:title/"
 palette: blue
 header:
-  title: Azimuth
-  logo_img: "/images/Refuge4men Design.png"
+  title: Refuge4Men
+  logo_img: "/images/Refuge4men Design2.png"
   has_nav: true
   menu:
     actions:
