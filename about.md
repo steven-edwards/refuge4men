@@ -1,8 +1,7 @@
 ---
 title: About Us
-subtitle: This is an optional subtitle. It can be used to describe what this page
-  is about.
-img_path: images/about.jpg
+subtitle: Optional subtitle. It can be used to describe what this page is about.
+img_path: "/images/aboutUs.jpeg"
 layout: page
 menu:
   main:
@@ -11,6 +10,22 @@ menu:
     weight: 2
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus tortor pretium ligula, eu malesuada tortor eros dapibus mi. Proin laoreet efficitur suscipit. Donec molestie volutpat euismod. Nulla gravida ligula in eros facilisis, sed dignissim tellus aliquam. Etiam convallis enim nisi, at suscipit tortor pulvinar at. Nulla a interdum lacus. Sed a porttitor mi. Sed at risus eu orci ultricies mattis sed in tellus. Cras nec neque sed dui vehicula iaculis id vel ex. Phasellus non consectetur augue. Pellentesque condimentum sapien arcu, nec tempus nunc maximus eu. Duis blandit risus nulla. In dolor dui, placerat non finibus sit amet, venenatis pretium tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+### **We will provide a 24 hour a day, 365 days a year dedicated helpline for men suffering domestic abuse and in crisis.We shall collaborate with businesses, organisations and individuals to educate, inform and raise awareness on this subject.**
 
-Nunc a lorem tellus. Aenean eu auctor purus. Cras pulvinar, nunc at sagittis dignissim, orci elit auctor leo, et consectetur est turpis a nunc. Vivamus in faucibus felis. Aenean rutrum magna at ex auctor, congue efficitur ligula feugiat. Proin a egestas arcu. Etiam feugiat turpis quis mollis pellentesque. Sed posuere luctus tortor, a eleifend augue varius sit amet. Integer ultrices neque sed quam dictum, quis vestibulum justo volutpat. Nam vitae tempus leo, ut mattis mi.
+**We offer the very best services in our field. We never settle for second best and always have your satisfaction as our top priority. It’s who we are and we are proud of it.**
+
+#### Who We Are
+
+We realised through extensive market research with businesses and individuals in the community, that there is an overwhelming need for the creation of awareness and signposting on the subject matter of male domestic abuse in the UK.
+
+  
+It is often seen as a 'taboo' subject, particularly for men who are just as much in need of support as others. Having a wealth of experience in the charity and voluntary sector, we decided to form a not for profit organisation Community Interest Company (C.I.C) in order to address this issue.
+
+#### Strategies & Plans
+
+* We are launching a 24 hour a day, 365 days a year dedicated helpline for men suffering domestic abuse to enable them to access help, support & signposting services, when they need it most via our network of invaluable 'Friends' who individually all have their specialist knowledge on a vast array of subjects pertaining to domestic abuse.
+* Through our workshops and seminars with businesses and organisations, we will educate their staff on the services available and raising awareness within the workplace on the subject of male domestic abuse.
+* Within the business community we shall be highlighting the effects domestic abuse has within the workplace, including absenteeism, lost revenue and the effect on general work performance by staff being affected by illness, distraction or fatigue caused by this often perceived' taboo' subject. The obvious knock on effects to the economy is that without this awareness, businesses that may be thriving can then struggle due to diminished productivity and therefore loss of income, leading to business failings.
+
+  
+_Testimonials to be added..._
