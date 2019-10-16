@@ -15,11 +15,11 @@ sections:
   type: section_content
   title: Our aim is to
   content: |-
-    ##### Empower men to escape domestic abuse.
+    ###### Empower men to escape domestic abuse.
 
-    ##### Promote awareness on the subject of male domestic abuse within the community.
+    ###### Promote awareness on the subject of male domestic abuse within the community.
 
-    ##### Become the 'one stop shop' for guidance, support & signposting within the UK.
+    ###### Become the 'one stop shop' for guidance, support & signposting within the UK.
   section_id: ''
   image: ''
   actions: []
