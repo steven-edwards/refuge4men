@@ -5,7 +5,7 @@ permalink: "/:title/"
 palette: blue
 header:
   title: Azimuth
-  logo_img: ''
+  logo_img: "/images/Refuge4men Design.png"
   has_nav: true
   menu:
     actions:
