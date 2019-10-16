@@ -75,7 +75,7 @@ sections:
 - type: section_posts
   template: section_posts
   section_id: recent-posts
-  title: Latest Posts
+  title: Latest News
   bg: gray
   subtitle: ''
 layout: landing
