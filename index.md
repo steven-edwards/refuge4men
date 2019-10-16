@@ -48,7 +48,7 @@ sections:
     image: "/images/section2_c.jpg"
     actions:
     - label: Learn More
-      url: "/features"
+      url: "/about"
 - type: section_reviews
   template: section_reviews
   section_id: reviews
