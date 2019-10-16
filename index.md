@@ -35,7 +35,7 @@ sections:
     image: "/images/section2_a.jpg"
     actions:
     - label: Learn More
-      url: "/features"
+      url: "/about"
   - title: Raising awareness through workplace 'well-being' policy, workshops, seminars
       & conference
     content: More information to follow shortly or click below to learn more.
