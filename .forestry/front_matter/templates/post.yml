@@ -37,6 +37,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/domestic-abuse-laws-will-tackle-injustice.md
 - _posts/uk-s-first-domestic-abuse-commissioner-announced.md
 - _posts/2019-04-22-working-from-home.md
 - _posts/2019-03-27-User-Journey-Mapping.md
