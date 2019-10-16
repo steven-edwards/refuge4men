@@ -13,48 +13,41 @@ sections:
 - type: section_features
   template: section_features
   section_id: features
-  title: Community and charity
-  subtitle: Step by step toward a better future
+  title: Our aim is to
+  subtitle: Empower men to escape domestic abuse Promote awareness on the subject
+    of male domestic abuse within the community Become the 'one stop shop' for guidance,
+    support & signposting within the UK
   bg: gray
   featureslist:
-  - title: UK's first domestic abuse commissioner announced
-    content: Nicole Jacobs named as government’s designate Domestic Abuse Commissioner
-    image: images/feature1.png
+  - title: 24 hour a day, 7 days a week, 365 days a year dedicated helpline
+    content: More information to follow shortly or click below to learn more.
+    image: "/images/section2_a.jpg"
     actions:
     - label: Learn More
       url: "/features"
-  - title: Domestic Abuse Laws 'will tackle injustice'
-    content: New laws to protect survivors of domestic abuse in England and Wales
-      have been introduced in Parliament
-    image: images/feature2.png
+  - title: Raising awareness through workplace 'well-being' policy, workshops, seminars
+      & conference
+    content: More information to follow shortly or click below to learn more.
+    image: "/images/section2_b.jpg"
     actions:
     - label: Learn More
       url: "/features"
-  - title: Occupational Health & Wellbeing
-    content: Bringing domestic abuse out of the shadows, and how employers can make
-      a difference
-    image: images/feature3.png
+  - title: Guidance, support & signposting
+    content: More information to follow shortly or click below to learn more.
+    image: "/images/section2_c.jpg"
     actions:
     - label: Learn More
       url: "/features"
-  - title: University of Bristol news
-    content: Male victims of domestic abuse face significant barriers to getting help
-    image: ''
-    actions:
-    - label: Learn More
-      url: "./features"
 - type: section_reviews
   template: section_reviews
   section_id: reviews
-  title: Testimonials
-  subtitle: 'Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-    semper libero id sodales. '
+  title: Our Team
+  subtitle: Giving their energy and passion to our cause
   bg: white
   reviews:
-  - author: John Doe
-    avatar: images/review1.jpg
-    content: Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc
-      non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+  - author: Simon
+    avatar: "/images/simon.jpg"
+    content: A little bit about yourself goes here...
   - author: Jane Roe
     avatar: images/review2.jpg
     content: Sed laoreet magna commodo libero euismod sodales. Nunc ac libero convallis,
@@ -67,11 +60,9 @@ sections:
 - type: section_cta
   template: section_cta
   section_id: call-to-action
-  title: This Is Call To Action Block!
-  subtitle: This is an optional description for the call to action block.
-  actions:
-  - label: Get Started
-    url: "/signup"
+  title: Stronger together – because we care
+  subtitle: Optional description...
+  actions: []
 - type: section_posts
   template: section_posts
   section_id: recent-posts
