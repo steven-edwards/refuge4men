@@ -5,7 +5,7 @@ subtitle: Nicole Jacobs named as government’s designate Domestic Abuse Commiss
 date: 2019-09-17 23:00:00 +0000
 thumb_img_path: "/images/s300_Nicole_Jacobs_picture_2.JPG"
 img_path: ''
-excerpt: ''
+excerpt: Nicole Jacobs named as government’s designate Domestic Abuse Commissioner
 
 ---
 The Home Secretary has today (Wednesday 18 September) announced Nicole Jacobs as the designate Domestic Abuse Commissioner. Ms Jacobs was the former Chief Executive Officer at charity Standing Together Against Domestic Violence and has more than two decades of experience working to reduce domestic abuse.
