@@ -24,6 +24,7 @@ fields:
   config:
     required: true
 pages:
+- our-events.md
 - our-friends.md
 - style-guide.md
 - signup.md
