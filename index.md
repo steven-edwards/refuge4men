@@ -51,10 +51,9 @@ sections:
   - author: Debbie
     avatar: "/images/debbie.jpg"
     content: Director & Office Manager
-  - author: Richard Roe
-    avatar: images/review3.jpg
-    content: Integer consectetur purus neque, ac porttitor enim convallis vitae. Interdum
-      et malesuada fames ac ante ipsum primis in faucibus.
+  - author: Robert
+    avatar: "/images/robert.jpg"
+    content: Domestic Abuse Survivor & Business Mentor
 - type: section_cta
   template: section_cta
   section_id: call-to-action
