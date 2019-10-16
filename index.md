@@ -48,11 +48,9 @@ sections:
   - author: Simon
     avatar: "/images/simon.jpg"
     content: A little bit about yourself goes here...
-  - author: Jane Roe
-    avatar: images/review2.jpg
-    content: Sed laoreet magna commodo libero euismod sodales. Nunc ac libero convallis,
-      interdum ligula vel, pretium diam. Integer commodo sem at dui sollicitudin,
-      vel posuere justo laoreet.
+  - author: Debbie
+    avatar: "/images/debbie.jpg"
+    content: Director & Office Manager
   - author: Richard Roe
     avatar: images/review3.jpg
     content: Integer consectetur purus neque, ac porttitor enim convallis vitae. Interdum
