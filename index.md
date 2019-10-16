@@ -4,42 +4,45 @@ sections:
 - type: section_hero
   template: section_hero
   section_id: hero
-  title: This Is A Big Hero Headline
-  content: 'Azimuth is the perfect theme for developers, designers and entrepreneurs
-    who need a sleek, modern SaaS site. '
-  image: images/hero.png
+  title: Freeing men from domestic abuse
+  content: Running a helpline, raising awareness & signposting.
+  image: "/images/homepage1.png"
   actions:
   - label: Learn More
     url: "/features"
 - type: section_features
   template: section_features
   section_id: features
-  title: Features
-  subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-    quis lorem malesuada luctus.
+  title: Community and charity
+  subtitle: Step by step toward a better future
   bg: gray
   featureslist:
-  - title: The Best Feature of Your Services
-    content: Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed aliquet
-      luctus, lorem risus volutpat dolor, nec dignissim diam neque consequat ex.
+  - title: UK's first domestic abuse commissioner announced
+    content: Nicole Jacobs named as government’s designate Domestic Abuse Commissioner
     image: images/feature1.png
     actions:
     - label: Learn More
       url: "/features"
-  - title: Awesome Feature of Your Services
-    content: Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-      sapien interdum luctus. Cras rhoncus condimentum metus sit amet auctor.
+  - title: Domestic Abuse Laws 'will tackle injustice'
+    content: New laws to protect survivors of domestic abuse in England and Wales
+      have been introduced in Parliament
     image: images/feature2.png
     actions:
     - label: Learn More
       url: "/features"
-  - title: Cool Feature of Your Services
-    content: In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean quis
-      venenatis sem. Proin eget massa id metus eleifend maximus sit amet nec urna.
+  - title: Occupational Health & Wellbeing
+    content: Bringing domestic abuse out of the shadows, and how employers can make
+      a difference
     image: images/feature3.png
     actions:
     - label: Learn More
       url: "/features"
+  - title: University of Bristol news
+    content: Male victims of domestic abuse face significant barriers to getting help
+    image: ''
+    actions:
+    - label: Learn More
+      url: "./features"
 - type: section_reviews
   template: section_reviews
   section_id: reviews
@@ -74,6 +77,7 @@ sections:
   section_id: recent-posts
   title: Latest Posts
   bg: gray
+  subtitle: ''
 layout: landing
 menu:
   main:
